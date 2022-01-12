@@ -1,4 +1,4 @@
-baseurl = "https://gannipiece.github.io/"
+baseurl = "/"
 title = "GanniPiece Blog"
 languageCode = "zh-tw"
 paginate = "10" # Number of posts per page
@@ -8,7 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "GanniPiece"
-  bio = ""
+  bio = "To share what I learned."
   avatar = "/img/avatar.png"
 
 [Params]
