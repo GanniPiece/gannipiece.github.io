@@ -18,7 +18,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
           external_repository: GanniPiece/gannipiece.github.io
           publish_branch: gh-pages
           publish_dir: ./public
