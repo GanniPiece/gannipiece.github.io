@@ -20,6 +20,6 @@ jobs:
         with:
           deploy_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
           external_repository: GanniPiece/gannipiece.github.io
-          publish_branch: main
+          publish_branch: gh-pages
           publish_dir: ./public
           commit_message: ${{ github.event.head_commit.message }}
