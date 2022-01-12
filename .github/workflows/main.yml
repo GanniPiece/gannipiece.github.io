@@ -19,7 +19,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.HUGO_DEPLOY_TOKEN }}
-          external_repository: Lruihao/lruihao.github.io
+          external_repository: GanniPiece/gannipiece.github.io
           publish_branch: main
           publish_dir: ./public
           commit_message: ${{ github.event.head_commit.message }}
