@@ -23,5 +23,6 @@ jobs:
 #           external_repository: GanniPiece/gannipiece.github.io
           publish_branch: gh-pages
           publish_dir: ./public
+          cname: gannipiece.github.io
           force_orphan: true
           commit_message: ${{ github.event.head_commit.message }}
