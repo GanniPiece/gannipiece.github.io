@@ -8,6 +8,7 @@ Tags:
 - "gitlab"
 draft: false
 ---
+<!--more-->
 
 ## 前言
 ---
@@ -15,7 +16,6 @@ draft: false
 一般來說，我們可以在使用本地端安裝的 GitLab Runner 來作為專案 CI/CD 的機器。除此之外，GitLab 亦提供 GitLab Runner 的 [Docker images](https://docs.gitlab.com/runner/install/docker.html#docker-images) [[1](https://www.notion.so/Docker-GitLab-Runner-54d82b53020e4ea3887363992cc8cd63)]，讓我們在 Docker 的 container 中運行 GitLab Runner。
 
 本篇文章將參考[官方文件](https://docs.gitlab.com/runner/install/docker.html) [[2](https://www.notion.so/Docker-GitLab-Runner-54d82b53020e4ea3887363992cc8cd63)] 來進行介紹，先從 docker 的安裝介紹，再逐步建立 Docker 容器，並運行 GitLab Runner，希望能幫自己做個紀錄，也能幫助正在尋求解答的人。
-<!--more-->
 
 ## 安裝 Docker
 
