@@ -2,7 +2,7 @@
 title: "地伏靈"
 date: 2021-12-27T11:59:53+08:00
 categories:
-- "小說"
+- "創作"
 tags:
 - "Novel"
 draft: false
