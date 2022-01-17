@@ -8,3 +8,7 @@ draft: false
 
 * mailto: bear110088@gmail.com
 * Github: [github.com/GanniPiece](https://github.com/GanniPiece)
+
+Social Media
+
+* SoundCloud: [popo](https://soundcloud.com/obsegd)

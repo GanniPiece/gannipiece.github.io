@@ -68,9 +68,16 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
   facebook = "ginedoc"
   twitter = "broke_wang"
   # linkedin = "username"
+  # soundcloud = "obsegd"
   github = "gannipiece"
   gitlab = "bear110088"
   email = "bear110088@gmail.com"
+
+# [Params.widgets.social.custom]
+#   title = "SoundCloud"
+#   url = "https://soundcloud.com/obsegd"
+  # icon = "svg/souncloud.svg"
+
 
 [menu]
 	[[menu.main]]
