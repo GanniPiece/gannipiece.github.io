@@ -5,6 +5,11 @@ categories:
 - "創作"
 tags:
 - "Novel"
+keywords:
+- "GanniPiece"
+- "地伏靈"
+- "短篇小說"
+
 draft: false
 ---
 

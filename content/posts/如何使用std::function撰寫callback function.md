@@ -6,6 +6,11 @@ tags:
 - "c++"
 - "std"
 - "callback function"
+keywords:
+- "GanniPiece"
+- "技術文章"
+- "c++"
+- "std::function"
 date: 2022-01-18T00:53:58+08:00
 draft: false
 ---

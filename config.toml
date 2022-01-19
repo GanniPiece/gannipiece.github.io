@@ -6,6 +6,11 @@ theme = "mainroad"
 disqusShortname = "https-gannipiece-github-io" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your tracking id
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
 [Author] # Used in authorbox
   name = "GanniPiece"
   bio = "To share what I've learned."

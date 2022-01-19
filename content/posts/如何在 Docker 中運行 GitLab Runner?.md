@@ -6,6 +6,11 @@ categories:
 Tags: 
 - "docker"
 - "gitlab"
+keywords:
+- "GanniPiece"
+- "Docker"
+- "GitLab"
+- "GitLab Runner"
 draft: false
 ---
 <!--more-->
