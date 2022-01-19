@@ -8,6 +8,7 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 
 [sitemap]
   changefreq = "monthly"
+  filename = "sitemap.xml"
   priority = 0.5
 
 [Author] # Used in authorbox
