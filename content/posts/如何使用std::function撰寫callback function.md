@@ -3,7 +3,7 @@ title: "如何使用 std::function 撰寫 Callback Function"
 categories:
 - "技術"
 tags:
-- "c plus plus"
+- "c-plus-plus"
 - "std"
 - "callback function"
 keywords:
