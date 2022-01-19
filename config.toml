@@ -1,4 +1,4 @@
-baseurl = "https://gannipiece.github.io"
+baseURL = "/"
 title = "GanniPiece Blog"
 languageCode = "zh-tw"
 paginate = "10" # Number of posts per page
