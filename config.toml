@@ -92,15 +92,15 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 	[[menu.main]]
 		identifier = "categories"
 		name = "所有分類"
-		url = "/categories"
+		url = "/categories/"
 		weight = 20
 	[[menu.main]]
 		identifier = "tags"
 		name = "所有標籤"
-		url = "/tags"
+		url = "/tags/"
 		weight = 30
 	[[menu.main]]
 		identifier = "about"
 		name = "關於我"
-		url = "/about"
+		url = "/about/"
 		weight = 40
