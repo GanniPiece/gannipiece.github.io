@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://gannipiece.github.io"
 title = "GanniPiece Blog"
 languageCode = "zh-tw"
 paginate = "10" # Number of posts per page
@@ -8,7 +8,6 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 
 [sitemap]
   changefreq = "monthly"
-  filename = "sitemap.xml"
   priority = 0.5
 
 [Author] # Used in authorbox
