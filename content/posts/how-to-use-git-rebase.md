@@ -1,5 +1,5 @@
 ---
-title: "如何使用 git-rebase-與其他分支合併"
+title: "如何使用 git-rebase 與其他分支合併"
 date: 2022-01-20T11:43:53+08:00
 categories:
 - "技術"
