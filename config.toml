@@ -14,7 +14,7 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 [Author] # Used in authorbox
   name = "GanniPiece"
   bio = "To share what I've learned."
-  avatar = "img/avatar.png"
+  avatar = "img/avatar.jpg"
 
 [Params]
   description = "GanniPiece Personal blog about everything" # Site description. Used in meta description

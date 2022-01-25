@@ -26,35 +26,36 @@ Rebase 的意思即是以某個 branch 作為基準來做整合，假設今天�
 
 1. 如果我們希望以 A 分支作為基準，我們首先需要將 branch 切到 A 分支上
 
-- 	```shell {linenos=false, linenostart=1}
+```shell {linenos=false, linenostart=1}
 	❯ git checkout A
-	```
+```
 
 2. 確認 HEAD 所在的分支
 
-- 	```shell
+```shell
 	❯ git status
 	On branch A
 	nothing to commit, working tree clean
-	``` 
+``` 
 
 3. B rebase A
 
--	```shell
+```shell
 	❯ # (on branch B)
 	❯ git rebase A
-	```	
+```
+  
 4. 若兩個版本間有衝突，依照 git 輸出的訊息逐一對衝突處進行修改
 5. 修改完後將檔案加入 stage
 
--	```shell
+```shell
 	❯ git add <modified file name> 
-	```
-6. 重複步驟 4, 5，並繼續 rebase 直至所有衝突解決
+```
+1. 重複步驟 4, 5，並繼續 rebase 直至所有衝突解決
 
--	```shell
+```shell
 	❯ git rebase --continue
-	```
+```
 
 
 ## 範例
