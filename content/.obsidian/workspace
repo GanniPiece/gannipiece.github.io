@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/如何使用 JUCE 實作 XYPad?.md",
+            "file": "posts/如何建立一個 JUCE 的專案?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/如何使用 JUCE 實作 XYPad?.md",
+                "file": "posts/如何建立一個 JUCE 的專案?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,11 @@
   },
   "active": "10746d8399eb6870",
   "lastOpenFiles": [
-    "posts/如何使用 JUCE 實作 XYPad?.md",
-    "posts/如何使用std::function撰寫callback function.md",
     "posts/如何建立一個 JUCE 的專案?.md",
-    "posts/如何使用 git rebase 與其他分支合併.md",
+    "posts/如何使用std::function撰寫callback function.md",
     "posts/如何在 Docker 中運行 GitLab Runner?.md",
+    "posts/如何使用 git rebase 與其他分支合併.md",
+    "posts/如何使用 JUCE 實作 XYPad?.md",
     "posts/stonetape.md",
     "Pasted image 20220125142619.png",
     "posts/29_May_2015.md",

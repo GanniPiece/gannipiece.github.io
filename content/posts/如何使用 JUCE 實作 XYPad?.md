@@ -3,7 +3,6 @@ title: "如何使用 JUCE 實作 XYPad?"
 date: 2022-01-25T14:13:30+08:00
 categories:
 - "技術"
-- "JUCE"
 tags:
 - "技術"
 - "JUCE"
