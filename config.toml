@@ -1,7 +1,7 @@
 baseURL = "https://gannipiece.github.io"
 title = "GanniPiece Blog"
 languageCode = "zh-tw"
-paginate = "10" # Number of posts per page
+paginate = "8" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "https-gannipiece-github-io" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your tracking id
@@ -13,7 +13,7 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 
 [Author] # Used in authorbox
   name = "GanniPiece"
-  bio = "To share what I've learned."
+  bio = "我們從來不試圖成為非常聰明的人，而只是持續避免讓自己變成蠢貨"
   avatar = "img/avatar.jpg"
 
 [Params]
@@ -26,7 +26,7 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  mainSections = ["posts", "categories"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["posts", "categories", "tags"] # Specify section pages to show on home page and the "Recent articles" widget
   readmore = true # Show "Read more" button in list if true
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = true # Enable MathJax
@@ -37,11 +37,11 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
   customJS = ["js/custom.js"] # Include custom JS files
 
   # DEPRECATED PARAMS
-  subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
+  subtitle = "我們從來不試圖成為非常聰明的人，而只是持續避免讓自己變成蠢貨" # Deprecated in favor of .Site.Params.logo.subtitle
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
 
 [Params.style.vars]
-  highlightColor = "#e22d30" # Override highlight color
+  highlightColor = "#9F0050" # Override highlight color
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
   fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
