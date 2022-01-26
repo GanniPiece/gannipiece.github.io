@@ -1,0 +1,13 @@
+<script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+<script>
+$(document).ready(function(){
+  $('#container div.wrapper main div article p a').attr('target', '_blank');
+    $('#container > div.wrapper > main > div > article > ul > li > ul > li > a').attr('target', '_blank');
+});
+
+var links = document.links;
+// jQuery
+$(document.links).filter(function() {
+  return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+</script>
