@@ -13,7 +13,7 @@ googleAnalytics = "G-DSXSS494S3" # Enable Google Analytics by entering your trac
 
 [Author] # Used in authorbox
   name = "GanniPiece"
-  bio = "我們從來不試圖成為非常聰明的人，而只是持續避免讓自己變成蠢貨"
+  bio = ""
   avatar = "img/avatar.jpg"
 
 [Params]
