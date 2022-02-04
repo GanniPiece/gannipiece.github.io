@@ -51,7 +51,7 @@ draft: false
 調整完細節後，選擇右上角輸出的圖案 ⬆️，選擇 `Export as VRM` 。點擊後會出現 `VRM Settings` 的視窗，裡面有兩個必填的欄位 `Title`, `Creator`，在 `Title` 欄位填寫模型的名字，並在 `Creator` 欄位填入自己的名字。填寫完後，對其他 optional 的選項進行設定，即可按下下方的 `Export` 輸出。
 
 ## 檔案轉換
-將 VRM 轉換成 [Filmbox (FBX)][4] 的格式可以方便讓我們直接套用 Mixamo 上面的動畫。如果只是想將模型匯入 Unity 中，可以直接跳到[下一個章節](#匯入\ Unity)
+將 VRM 轉換成 [Filmbox (FBX)][4] 的格式可以方便讓我們直接套用 Mixamo 上面的動畫。如果只是想將模型匯入 Unity 中，可以直接跳到[下一個章節](#匯入-unity)
 
 以下我將使用 [Blender][2] 來將 VRM 轉換成 FBX。我們需要在 blender 裝上兩個不同的插件：[CATS Blender Plugin][5] 和 [VRM Add-on for Blender][6]，按下專案連結後會導向他們的 github 頁面，可以直接點擊 `⬇️ Code > Download ZIP` 下載。
 
