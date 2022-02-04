@@ -1,5 +1,5 @@
 ---
-title: "如何在 Docker 中運行 GitLab Runner?"
+title: "如何在 Docker 中運行 GitLab Runner？"
 date: 2021-10-25T12:38:23+08:00
 categories:
 - "技術"

@@ -1,5 +1,5 @@
 ---
-title: "如何使用 std::function 撰寫 Callback Function"
+title: "如何使用 std::function 撰寫 Callback Function？"
 categories:
 - "技術"
 tags:
