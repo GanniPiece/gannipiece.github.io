@@ -1,6 +1,6 @@
 ---
 title: "如何將 VRoid Studio 的模型匯入 Unity 中並加入 Mixamo 的動畫？"
-date: 2021-10-25T12:38:23+08:00
+date: 2022-02-04T09:08:23+08:00
 categories:
 - "技術"
 Tags: 
@@ -17,6 +17,7 @@ keywords:
 draft: false
 ---
 
+<!--more-->
 ## 前言
 最近和想要來了解 vtuber 的生態與製作，因此開始接觸 vtuber 相關的知識，而要了解一個領域最好的方式就是實作啦！今天我就會簡單的介紹如何透過 [VRoid Studio][1] 這套工具快速的製作一個 vtubuer 的模型，並且將這個工具匯出的 VRM 檔案放到 Unity 中，再進一步的在模型上套入動畫。
 
