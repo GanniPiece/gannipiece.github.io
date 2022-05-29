@@ -51,9 +51,9 @@ html {
 body {
 	margin: 0;
 	font-family: {{ $fontFamilyPrimary }};
-	font-size: 14px;
-	font-size: .875rem;
-	line-height: 1.6;
+	font-size: 15px;
+	/* font-size: .875rem; */
+	line-height: 1.5;
 	word-wrap: break-word;
 	background: #f7f7f7;
 	-webkit-font-smoothing: antialiased;
