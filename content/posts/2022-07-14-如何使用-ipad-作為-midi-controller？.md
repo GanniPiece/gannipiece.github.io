@@ -3,9 +3,11 @@ title: 如何讓您的 iPad 成為無線 MIDI Controller？
 description: ""
 date: 2022-07-14T02:57:32.537Z
 preview: null
-draft: true
+draft: false
 tags:
   - MIDI Controller
+  - iPad
+  - DAW
 categories:
   - 技術
 keywords: ""
