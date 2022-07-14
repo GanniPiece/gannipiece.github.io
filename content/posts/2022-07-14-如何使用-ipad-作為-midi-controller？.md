@@ -58,7 +58,8 @@ slug: 如何設定使-ipad-成為無線-midi-controller？
 | 1. 下載並安裝 [rtpMIDI](https://www.tobias-erichsen.de/software/rtpmidi.html) | ![](https://i.imgur.com/XfyUtZx.png) |
 | 2. 開啟「rtpMIDI: using Apple Bonjour」 | ![](https://i.imgur.com/vA6OoEz.png) |
 | 3. 點擊左上角「+」字樣按鈕新增一個工作階段，並將其勾選 | ![](https://i.imgur.com/cQkE6DK.png) |
-| 4. 點擊左下角「+」字樣按鈕新增一個目的地，並設定目的地資訊。您可以在行動裝置的 WiFi 設定下取得 IP 位置資訊，並將 Port 設定為 5004 | ![](https://i.imgur.com/dQqpDUO.png) |
+| 4. 點擊左下角「+」字樣按鈕新增一個目的地，並設定目的地資訊。您可以在行動裝置的 WiFi 設定下取得 IP 位置資訊，並將 Port 設定為 5004 | ![](https://i.imgur.com/dQqpDUO.png) | 
+| 4.1 備註：您可以在 iPad 的 WiFi 設定中查看 IP 位置資訊 | ![](https://i.imgur.com/0q7Okox.png) |
 | 5. 按下連線 | ![](https://i.imgur.com/jvmVSlm.png) |
 | 6. 前往數位工作站設定 MIDI 輸入裝置 | 同 macOS 設定之 步驟 6 |
 
