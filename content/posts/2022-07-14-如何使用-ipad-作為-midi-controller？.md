@@ -11,7 +11,7 @@ tags:
 categories:
   - 技術
 keywords: ""
-slug: 如何讓您的-ipad-成為無線-midi-controller？
+slug: 如何設定使-ipad-成為無線-midi-controller？
 ---
 
 <!-- abstract -->
@@ -45,7 +45,7 @@ slug: 如何讓您的-ipad-成為無線-midi-controller？
 | --- | --- |
 | 1. 開啟「音訊 MIDI 設定應用程式」(Audio MIDI Setup) | ![](https://i.imgur.com/ZT9MhGt.png) |
 | 2. 點擊選項列中「視窗」>「顯示 MIDI 錄音室」(Show MIDI Studio) 開啟 MIDI 錄音室設定 | ![](https://i.imgur.com/U70kezI.png) |
-| 3. 選擇右上角「🌐」圖示按鈕開啟「MIDI網路設定視窗」 | ![](https://i.imgur.com/QqB8EbQ.png) |
+| 3. 在 MIDI 錄音室設定畫面中，選擇右上角「🌐」圖示按鈕開啟「MIDI網路設定視窗」 | ![](https://i.imgur.com/QqB8EbQ.png) |
 | 4. 在左上角點擊「+」圖示按鈕新增一個工作階段，並將其勾選 | ![](https://i.imgur.com/sIUXfKX.png) |
 | 5. 點擊相對應的裝置 (iPad) 後，按下「連線」按鈕 | ![](https://i.imgur.com/HuwctbK.png) |
 | 6. 前往數位工作站設定 MIDI 輸入裝置 | ![](https://i.imgur.com/jDLnkmR.png) |
