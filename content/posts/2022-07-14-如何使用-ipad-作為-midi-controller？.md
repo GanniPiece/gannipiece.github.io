@@ -51,7 +51,7 @@ slug: 如何設定使-ipad-成為無線-midi-controller？
 | 6. 前往數位工作站設定 MIDI 輸入裝置 | ![](https://i.imgur.com/jDLnkmR.png) |
 
 
-### PC
+### Windows
 
 | 步驟說明 | 圖示 |
 | --- | --- |
